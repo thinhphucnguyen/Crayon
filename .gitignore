@@ -115,3 +115,6 @@ InitTestScene*.unity*
 
 # Local exporter output
 /RTExport/
+
+# Finder metadata
+.DS_Store
